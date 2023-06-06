@@ -1,0 +1,6 @@
+Introduction As you may know now, ChatGPT is a language generation model developed by OpenAI. you can ask it anything you want. 
+So why not learn algorithmic trading with ChatGPT? At the beginning, I wanted to just play with it and see what answers I would get. 
+I didnt believe in it, but I can admit I was really impressed. So let me show you how you could use it to learn different types of algorithmic 
+trading (By practicing using Python code examples). But before that, here are some warnings: There is no recommendation of the best algorithm
+ to use DO NOT USE IT to make investment decisions in financial markets. This is in no way an encouragement to invest in financial markets. 
+ Take into account the warning raised by ChatGPT on many code python examples it gives.
